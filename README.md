@@ -1,6 +1,6 @@
 # Hi there, I'm Satwik! 👋 
 
-**Data Science Professional | Statistician | Machine Learning Enthusiast**
+**Data Science Professional | Statistics and Operations Research | Machine Learning Enthusiast**
 
 - Welcome to my GitHub profile! I'm a passionate Data Scientist with a strong foundation in **statistics**, **analytics**, and **machine learning**. Currently, I'm an **Analyst at Axtria**. 
 - Transforming messy data into 'aha' moments, one algorithm at a time.
