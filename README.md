@@ -19,9 +19,9 @@
 - **Other Tools:** Git, Jupyter Notebooks, Google Cloud, Excel
 
 ### 🌟 Featured Projects
-- 📊 [Content Based Movie Recommender System – Personal Project] - * Built a movie recommendation system using Cosine Similarity to suggest movies based on user preferences. Processed over 5000 movie features for personalized recommendations*
-- 🤖 [Binary Image Classification model utilizing CNN – Personal Project] - * Created a CNN model for classifying cats and dogs using Keras, achieving 85.1% accuracy. Efficiently handled 25,000 images with data generators*
-- 🔍 [Web Application for Olympics Data Analysis – Personal Project] - *Created an Olympics data analysis app using Streamlit. Performed EDA on 120+ years of data with Pandas, Seaborn, and Plotly for trend visualization*
+- 📊 **Content Based Movie Recommender System – Personal Project** - *Built a movie recommendation system using Cosine Similarity to suggest movies based on user preferences. Processed over 5000 movie features for personalized recommendations*
+- 🤖 **Binary Image Classification model utilizing CNN – Personal Project** - *Created a CNN model for classifying cats and dogs using Keras, achieving 85.1% accuracy. Efficiently handled 25,000 images with data generators*
+- 🔍 **Web Application for Olympics Data Analysis – Personal Project** - *Created an Olympics data analysis app using Streamlit. Performed EDA on 120+ years of data with Pandas, Seaborn, and Plotly for trend visualization*
 
 
 ### 🌱 What I'm Currently Learning
