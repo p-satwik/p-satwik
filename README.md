@@ -2,8 +2,8 @@
 
 **Data Science Professional | Statistician | Machine Learning Enthusiast**
 
-Welcome to my GitHub profile! I'm a passionate Data Scientist with a strong foundation in **statistics**, **analytics**, and **machine learning**. Currently, I'm an **Analyst at Axtria**. 
-\nTransforming messy data into 'aha' moments, one algorithm at a time.
+-Welcome to my GitHub profile! I'm a passionate Data Scientist with a strong foundation in **statistics**, **analytics**, and **machine learning**. Currently, I'm an **Analyst at Axtria**. 
+-Transforming messy data into 'aha' moments, one algorithm at a time.
 
 ### 👨‍💻 About Me
 - 🎓 I hold a Bachelor's degree in **Mathematics** from Kirori Mal College and a Master's degree in **Operational Research** from Hansraj College, University of Delhi.
